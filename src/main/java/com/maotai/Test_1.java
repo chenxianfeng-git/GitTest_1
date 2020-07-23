@@ -6,9 +6,6 @@ public class Test_1 {
         System.out.println("先锋大帅哥");
         System.out.println("先锋大帅哥");
         System.out.println("先锋大帅哥");
-        System.out.println("先锋大帅哥");
-        System.out.println("先锋大帅哥");
-        System.out.println("先锋大帅哥");
     }
 
 }
